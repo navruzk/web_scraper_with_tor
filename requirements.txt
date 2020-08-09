@@ -1,0 +1,4 @@
+requests
+socket
+stem.process
+socks
