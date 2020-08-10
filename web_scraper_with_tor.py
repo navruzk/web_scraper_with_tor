@@ -1,5 +1,4 @@
 import requests
-from Tor import Tor
 import os
 import socket
 import stem.process
