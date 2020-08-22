@@ -37,7 +37,7 @@ class Tor:
 
 if __name__ == "__main__":
 
-    ## if tor is, script closes it
+    ## if tor is on, script closes it
     cmd = "taskkill /IM tor.exe /F"
     os.system(cmd)
 
